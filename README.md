@@ -18,7 +18,7 @@ This is a simple yet elegant implementation of expanding cards/panels using HTML
 
 ## Project Structure 
 ```bash
-02 Day 1 - Expanding Cards/
+Day 1 - Expanding Cards/
 ├── index.html
 ├── style.css
 ├── script.js

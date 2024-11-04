@@ -1,7 +1,7 @@
 # Expanding Cards
 
 ## Project Description
-This is a simple yet elegant implementation of expanding cards/panels using HTML, CSS, and JavaScript. When a user clicks on a panel, it expands while others contract, creating a smooth and engaging user interface element.
+This is a simple implementation of expanding cards/panels using HTML, CSS, and JavaScript. When a user clicks on a panel, it expands while others contract, creating a smooth user interface.
 
 ## Features
 - Responsive design
